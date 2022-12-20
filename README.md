@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://bpabraham123.github.io/">
-    <img src="https://img.shields.io/badge/-Personal%20Website-lightgrey" alt="Personal Website Badge"/>
+    <img src="https://img.shields.io/badge/-Personal%20Website-lightgrey?style=for-the-badge&logoColor=white" alt="Personal Website Badge"/>
   </a>
 </div>
 <!--
